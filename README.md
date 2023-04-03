@@ -1,1 +1,1 @@
-my-school bihar vishnu
+my-school
