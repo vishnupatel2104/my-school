@@ -1,0 +1,200 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+.my_menu{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: red;
+}
+.menu li{
+    list-style: none;
+    width: 160px;
+    height: 50px;
+    background-color: red;
+    margin-left: 5px;
+    text-align: center;
+    line-height: 50px;
+    float: left;
+
+}
+.menu li:hover{
+    background-color: black;
+}
+   .menu li a:hover{
+    color: aqua;
+   }
+.menu li a{
+    color: white;
+    display: block;
+    text-decoration: none;
+    font-size: large;
+    font-family: serif;
+}
+.logo{
+    width: 55px;
+    height: auto;
+    max-width: 50%;
+    border: none;
+    border-radius: 0%;
+    box-shadow: none;
+}
+.logo_li{
+    background-color: aqua!important;
+}
+
+.menu ul li{
+    margin: 0px;
+}
+.menu ul{
+    display: none;
+}
+.menu li:hover ul{
+    display: block;
+}
+#banner{
+    width: 100%;
+}
+#banner img{
+    width: 100%;
+    border: 1px solid black;
+}
+/* why choose us */
+#why_choose{
+    width: 100%;
+    text-align: center;
+}
+#why_choose h1{
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    border-bottom: 2px solid red;
+}
+.div_section1{
+    width: 20%;
+    height: 300px;
+    margin: 30px;
+    float: left;
+}
+.icon{
+    width: 120px;
+    height: 120px;
+    border: solid gray;
+    margin: 10px auto;
+    line-height: 120px;
+    font-size: 60px;
+    background-color: rgb(255, 9, 9);
+    color: white;
+    border-radius: 100px;
+    transition-duration: 1.3s;
+}
+.icon:hover{
+    font-size: 40px;
+}
+.section2{
+    width: 100%;
+    text-align: center;
+}
+.section2 h1{
+    margin: 0 auto;
+    width: 400px;
+    font-size: 30px;
+    color: red;
+    border-bottom: 2px solid red;
+    font-family: sans-serif;
+}
+.div_section2{
+    width: 30%;
+    height: 300px;
+    margin: 20px;
+    float: left;
+    font-size: larger;
+}
+.div_section2 img{
+    width: 100%;
+    height: auto;
+    border: 1px solid gray;
+}
+.footer{
+    width: 100%;
+    background-color: black;
+}
+.footer_div{
+    width: 20%;
+    height: 500px;
+    margin: 30px;
+    float: left;
+}
+.footer_div h1{
+    text-align: center;
+    color: red;
+}
+.footer_div p{
+    color: black;
+    font-size: large;
+    margin-left: 20px;
+
+}
+.footer_div button{
+    margin-top: 20px;
+    background-color: red;
+    border: none;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+.footer_div ul li{
+    list-style: none;
+    margin-left: 30%;
+}
+.footer_div ul li a{
+   color: rgb(12, 12, 12);
+   font-size: 18px;
+   text-decoration: none;
+   font-weight: bold;
+}
+.footer_div h2{
+    text-align: center;
+    color: red;
+    margin-left: 40px;
+}
+.footer_div ul li a{
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+.social_link{
+    color: white;
+    width: 100%;
+    height: 500px;
+    font-size: 40px;
+    margin-left: 20%;
+}
+.under_footer{
+    width: 100%;
+}
+.footer1{
+    float: left;
+    margin-left: 20%;
+}
+.footer1 p{
+    color: white;
+    height: 20px;
+    font-size: large;
+    font-weight: bold;
+    background-color: black;
+}
+
+
+
+
+
+
